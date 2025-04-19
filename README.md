@@ -1,16 +1,26 @@
-# notepad_with_tts
+# 📝 Speaking Notepad with TTS (Text-to-Speech)
 
-A new Flutter project.
+This is a simple Flutter app that lets users write notes, save them to storage, and listen to them using Text-to-Speech. It's designed for people who may prefer hearing their notes rather than reading them — helpful for accessibility, multitasking, or convenience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+🗒️ Type and store personal notes
 
-A few resources to get you started if this is your first Flutter project:
+💾 Save notes to local storage (Downloads/MyNotes/notes.txt)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔊 Text-to-Speech support to read your notes aloud
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧹 Clear notes instantly with one tap
+
+📂 Auto-create folder and handle storage permissions
+
+## 📱 Built With
+
+Flutter
+
+flutter_tts
+
+permission_handler
+
+path_provider
+
