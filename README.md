@@ -14,6 +14,10 @@ This is a simple Flutter app that lets users write notes, save them to storage, 
 
 📂 Auto-create folder and handle storage permissions
 
+## Demo
+
+https://youtube.com/shorts/QK5yZT7I2kQ?feature=share
+
 ## 📱 Built With
 
 Flutter
